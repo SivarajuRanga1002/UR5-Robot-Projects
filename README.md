@@ -1,6 +1,7 @@
 # UR5-Robot-Projects
 
 Palletizing Task:
+![Palletizing](https://github.com/SivarajuRanga1002/UR5-Robot-Projects/assets/65248651/89196aa1-f02b-4db8-b52a-669702ef88fd)
 
 https://youtube.com/shorts/0hsyjtSqtxI?feature=share
 
